@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React from 'react';
 
 function AddImage({ image, setImage }) {
   // const [imagePreview, setImagePreview] = useState(null);

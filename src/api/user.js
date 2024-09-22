@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const baseurl = 'https://racheldatabase.onrender.com'
+const baseurl = 'https://racheldatabase2.onrender.com/users'
 
 export const getUsers = async () => await axios.get(baseurl);
 
